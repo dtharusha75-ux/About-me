@@ -12,4 +12,4 @@
 - **AI & Creative:** Generative AI Models, Stable Diffusion, Prompt Engineering, Model Fine-Tuning
 - **Version Control & Tools:** Git, GitHub, VS Code
 
-📫 **Connect with me:** [LinkedIn/Twitter/Portfolio Link]
+

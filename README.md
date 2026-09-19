@@ -1,6 +1,6 @@
 # About-me
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Deneth 👋
 
 - 🎓 Software Engineering Undergraduate
 - 💻 Software Developer | Web & Mobile Applications
